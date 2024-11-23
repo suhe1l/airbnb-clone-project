@@ -4,14 +4,14 @@ A modern and user-friendly booking and property management system inspired by Ai
 
 ## Table of Contents
 
-1. [Project Overview]
-2. [Features]
-3. [Tech Stack]
-4. [Getting Started]
-5. [Project Structure]
-6. [Usage]
-7. [Contributing]
-8. [License]
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Tech Stack](#tech-stack)
+4. [Getting Started](#getting-started)
+5. [Project Structure](#project-structure)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ---
 
@@ -143,7 +143,3 @@ We welcome contributions! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the content based on your project setup and preferences. Let me know if you'd like assistance writing specific sections or modifying it further! 😊
